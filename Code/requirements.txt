@@ -1,0 +1,5 @@
+PyQt6
+PyInstaller
+psutil
+nvidia-ml-py
+ultralytics
